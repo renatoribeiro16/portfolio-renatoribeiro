@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@200;300;400&display=swap');
+
+*{ 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Sono';
+
+}
+
+#app { 
+    background-color: black;
+}
+
+#corpo{ 
+    background-color: black;
+}
+
+.navbar-brand img { 
+    margin-left: 5vw;
+}
+
+.menu{ 
+    margin-right: 10vw;
+}
+
+.texto-inicial { 
+  
+}
+
+.texto-inicial p { 
+    margin-left: 5vw;
+    font-size: 20px;
+    color: white;
+}
+
+.texto1{ 
+    margin-top: 17vw;
+}
+
+.img-main{ 
+    margin-top: 8vw;
+    width: 35vw;
+}
+
+.btns { 
+    margin-left: 5vw;
+    
+}
+
+.btns a { 
+    text-decoration: none;
+    padding:  10px;
+}
+
+.btn-1, .btn-2 { 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3vw;
+}
+
