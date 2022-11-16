@@ -21,6 +21,16 @@
     margin-left: 5vw;
 }
 
+ul li a:hover { 
+    text-shadow: 0 0 10px rgb(217, 255, 0),
+        0 0 20px rgb(208, 255, 0),
+        0 0 30px #26e600,
+        0 0 40px #c4e600,
+        0 0 50px #e6d700,
+        0 0 60px #cfe600,
+        0 0 70px #26e600
+}
+
 .menu{ 
     margin-right: 10vw;
 }
@@ -46,6 +56,10 @@
 
 .btns { 
     margin-left: 5vw;
+    
+}
+
+.btns a:hover{ 
     
 }
 
