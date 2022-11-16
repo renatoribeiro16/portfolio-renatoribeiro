@@ -60,3 +60,29 @@
     border-radius: 3vw;
 }
 
+.img-renato { 
+    width: 12vw;
+    margin-top: 7vw;
+    border-radius: 50%;
+}
+
+.texto-sobre{ 
+    
+       margin-left: 5vw;
+        font-size: 17px;
+        color: white;
+}
+
+.btn-curriculo a{ 
+text-decoration: none;
+padding: 10px;
+margin: 0;
+}
+
+.btn-curriculo img{ 
+    width: 20px;
+}
+
+.btn-card{ 
+    width: 120px;
+}
