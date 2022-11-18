@@ -41,14 +41,47 @@ ul li a:hover {
     color: white;
 }
 
+@keyframes texto {
+        from{ 
+            font-size: 0;
+        }
+
+        to { 
+            font-size: 20px;
+        }
+}
+
 .texto1{ 
     margin-top: 17vw;
+    animation-name: texto;
+    animation-duration: 5s;
 }
+
+.btns { 
+    animation-name: texto;
+    animation-duration: 5s;
+}
+
+
+
+
+@keyframes animacao { 
+    from {width: 2vw;}
+    to { width: 36vw}
+}
+
+
 
 .img-main{ 
     margin-top: 8vw;
     width: 35vw;
+    animation-name: animacao;
+    animation-duration: 7s;
+  
 }
+
+
+
 
 .btns { 
     margin-left: 5vw;
