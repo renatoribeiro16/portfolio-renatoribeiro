@@ -35,10 +35,6 @@ ul li a:hover {
     margin-right: 10vw;
 }
 
-.texto-inicial { 
-  
-}
-
 .texto-inicial p { 
     margin-left: 5vw;
     font-size: 20px;
@@ -59,9 +55,7 @@ ul li a:hover {
     
 }
 
-.btns a:hover{ 
-    
-}
+
 
 .btns a { 
     text-decoration: none;
